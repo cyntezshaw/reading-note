@@ -22,3 +22,13 @@ I will remind myself of this by keeping myself from procrastinating, keeping mys
 | Day 14 |
 | Day 15 |
 ### ``` Code 201 ```
+| **Terms** | **Definition or Example** |
+|---------- | -------------- |
+| Header | #, ##, ### |
+| Emphasis | * or _ for italics, ** or __ bold words, (**CAN BE COMBINED**)\
+| Lists | * Item 1* Item 2 * Item 2a* Item 2 Ordered
+| Images | ![GitHub Logo](/images/logo.png) Format: ![Alt Text](url)
+| Links | http://github.com - automatic! [GitHub](http://github.com)
+| Blockquotes | As Kanye West said: > We're living the future so > the present is our past.
+| Inline Code | I think you should use an `<addr>` element here instead.
+(** Github also offers table lists, tables, emojis and more **)
