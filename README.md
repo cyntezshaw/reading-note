@@ -6,4 +6,5 @@ I will remind myself of this by keeping myself from procrastinating, keeping mys
 
 | **First Header** |
 | ---------------- |  
-
+| Day 1 |
+| Day 2 |
