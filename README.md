@@ -4,6 +4,6 @@ I will remind myself of this by keeping myself from procrastinating, keeping mys
 
 ## ``` Code 201 Reading Notes ```
 
-| **First Header** | | **Reading Assignments** |
-| ---------------- | | ----------------------- |
+| **First Header** |  | **Reading Assignments** |
+| ---------------- |  | ----------------------- |
 
