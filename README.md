@@ -33,4 +33,4 @@ I will remind myself of this by keeping myself from procrastinating, keeping mys
 | Inline Code | I think you should use an `<addr>` element here instead.
 
 
-(** Github also offers table lists, tables, emojis and more **)
+(**Github also offers table lists, tables, emojis and more**)
