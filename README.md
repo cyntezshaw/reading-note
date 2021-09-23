@@ -4,8 +4,8 @@ I will remind myself of this by keeping myself from procrastinating, keeping mys
 
 ## ``` Code 201 Reading Notes ```
 
-| **First Header** |
-| ---------------- |  
+| **First Header** | **Reading Assignments** |
+| ---------------- | ------------------------| 
 | Day 1 |
 | Day 2 |
 | Day 3 |
