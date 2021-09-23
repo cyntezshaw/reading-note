@@ -3,3 +3,5 @@
 I will remind myself of this by keeping myself from procrastinating, keeping myself from falling behind on coursework and always keeping a positive mindset.
 
 ## ``` Code 201 Reading Notes ```
+
+| **First Header** |
